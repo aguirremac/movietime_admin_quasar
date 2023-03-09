@@ -11,7 +11,7 @@
         placeholder="Cinema Location"
         v-model="form.location"
       />
-      <div class="q-mt-md">
+      <div class="q-mt-md"> 
         <p>Cinema Numbers</p>
         <div>
           <q-checkbox v-model="form.cinemaNum" label="1" val="1" />
